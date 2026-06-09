@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Mohammed Aadil
-I'm Mohammed Aadil.
-I'm a Backend-End Developer.
-I'm pursuing Computer Science & Engineering.
-I love exploring new technologies & learning new stuff.
-Problem solving is the fun part to me .
+Welcome to my GitHub profile! Here you'll find a collection of my coding projects, problem-solving adventures, and learning journeys across Java, algorithms, app development, and more.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/az_aadhil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-aadil-a64a102a5/) 

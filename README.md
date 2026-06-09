@@ -1,4 +1,4 @@
-# 💫About Me :
+# 👋 Hi, I'm Mohammed Aadil
 I'm Mohammed Aadil.
 I'm a Backend-End Developer.
 I'm pursuing Computer Science & Engineering.

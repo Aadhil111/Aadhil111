@@ -23,6 +23,3 @@ I like exploring new places
 I like all kinds of anime regardless of their genres
 
 Hobbies: anime, fitness, building things
-
-### Github 
-Welcome to my GitHub profile! Here you'll find a collection of my coding projects, problem-solving adventures, and learning journeys across Java, algorithms, app development, and more.

@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Mohammed Aadil
+An aspiring software engineer with strong foundations in java and backend.
 Welcome to my GitHub profile! Here you'll find a collection of my coding projects, problem-solving adventures, and learning journeys across Java, algorithms, app development, and more.
 
 # 💻Tech Stack

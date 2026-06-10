@@ -12,7 +12,5 @@ Database: MySQL
 
 Concepts: OOPS, REST APIs, MVC Architecture, Exception Handling
 
-Tools: Git, GitHub, IntelliJ, VS Code
-
 ## Github 
 Welcome to my GitHub profile! Here you'll find a collection of my coding projects, problem-solving adventures, and learning journeys across Java, algorithms, app development, and more.

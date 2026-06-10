@@ -6,7 +6,7 @@
 
  Just a developer who likes building cool stuff. Always exploring new technologies and learning whatever gets the job done.
 
-## Skills
+### Skills
 
 Languages: JAVA, SQL, HTML
 
@@ -16,11 +16,11 @@ Database: MySQL
 
 Concepts: OOPS, REST APIs, MVC Architecture, Exception Handling
 
-## Fun Facts:
+### Fun Facts:
 
 I like all kinds of anime regardless of their genres
 
 Hobbies: anime, fitness, building things
 
-## Github 
+### Github 
 Welcome to my GitHub profile! Here you'll find a collection of my coding projects, problem-solving adventures, and learning journeys across Java, algorithms, app development, and more.

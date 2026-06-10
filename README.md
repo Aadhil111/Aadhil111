@@ -18,6 +18,8 @@ Concepts: OOPS, REST APIs, MVC Architecture, Exception Handling
 
 ### Fun Facts:
 
+I like exploring new places
+
 I like all kinds of anime regardless of their genres
 
 Hobbies: anime, fitness, building things

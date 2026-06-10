@@ -2,7 +2,7 @@
 
  Aspiring Software Engineer with strong foundations in Java and Backend Development.
 
-# Skills
+## Skills
 
 Languages: JAVA, SQL, HTML
 
@@ -14,7 +14,7 @@ Concepts: OOPS, REST APIs, MVC Architecture, Exception Handling
 
 Tools: Git, GitHub, IntelliJ, VS Code
 
-# Github 
+## Github 
 Welcome to my GitHub profile! Here you'll find a collection of my coding projects, problem-solving adventures, and learning journeys across Java, algorithms, app development, and more.
 
 # 💻Tech Stack

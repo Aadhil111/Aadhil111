@@ -2,6 +2,10 @@
 
  Aspiring Software Engineer with strong foundations in Java and Backend Development.
 
+ I enjoy building things and learning along the way.
+
+ Just a developer who likes building cool stuff. Always exploring new technologies and learning whatever gets the job done.
+
 ## Skills
 
 Languages: JAVA, SQL, HTML

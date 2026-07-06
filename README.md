@@ -4,7 +4,7 @@
 
  I enjoy building things and learning along the way.
 
- Just a developer who likes building cool stuff. Always exploring new technologies and learning whatever gets the job done.
+ A developer who likes building cool stuff. Always exploring new technologies and learning whatever gets the job done.
 
 ### Skills
 

@@ -1,10 +1,14 @@
 # 👋 Hi, I'm Mohammed Aadil
 
- Aspiring Software Engineer with strong foundations in Java and Backend Development.
+Aspiring Software Engineer with strong foundations in Java and Backend Development.
 
- I enjoy building things, sharing the results and learning along the way.
+I mostly work on backend stuff - Spring, Spring Boot, Spring Data and others.
+
+I enjoy building things, sharing the results and learning along the way.
 
 A developer who enjoys building cool stuff, exploring new technologies, and learning whatever gets the job done.
+
+This is a fresh profile where i'll be uploading some similar projects, experiments and things i'm currently working on. Everything here is built from the scratch, no copy/paste templates.
 
 ### Skills
 

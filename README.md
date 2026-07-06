@@ -2,9 +2,9 @@
 
  Aspiring Software Engineer with strong foundations in Java and Backend Development.
 
- I enjoy building things and learning along the way.
+ I enjoy building things and show off the results and learning along the way.
 
- A developer who likes building cool stuff. Always exploring new technologies and learning whatever gets the job done.
+ A developer who likes building cool stuff. It was very interisting to explore new technologies and learning whatever gets the job done.
 
 ### Skills
 

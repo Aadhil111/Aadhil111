@@ -2,9 +2,9 @@
 
  Aspiring Software Engineer with strong foundations in Java and Backend Development.
 
- I enjoy building things and show off the results and learning along the way.
+ I enjoy building things, sharing the results and learning along the way.
 
- A developer who likes building cool stuff. It was very interisting to explore new technologies and learning whatever gets the job done.
+A developer who enjoys building cool stuff, exploring new technologies, and learning whatever gets the job done.
 
 ### Skills
 
@@ -18,8 +18,8 @@ Concepts: OOPS, REST APIs, MVC Architecture, Exception Handling
 
 ### Fun Facts:
 
-I like exploring new places
+I like exploring new places and technologies
 
-I like all kinds of anime regardless of their genres
+I am an anime fan and I like all kinds of anime regardless of their genres
 
-Hobbies: anime, fitness, building things
+Hobbies: anime, fitness, coding

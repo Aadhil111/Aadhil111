@@ -26,4 +26,4 @@ I like exploring new places and technologies
 
 I am an anime fan and I like all kinds of anime regardless of their genres and One Piece is my favourite
 
-Hobbies: anime, fitness, coding
+Hobbies: coding, fitness, watching anime

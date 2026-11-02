@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Mohammed Aadil
 
-Aspiring Software Engineer with strong foundations in Java and Backend Development.
+Full-Stack Java Developer with strong foundations in Java and Backend Development.
 
-I mostly work on backend stuff - Spring, Spring Boot, Spring Data and others.
+I built and deployed a secure Spring Boot REST API that powers both a website and a Chrome extension from one 
+shared backend.
 
 I enjoy building things, sharing the results and learning along the way.
 

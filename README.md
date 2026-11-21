@@ -8,7 +8,7 @@ I'm looking for a developer role. I'm happy to work across different technologie
 
 ## What I've built
 
-**Web Diagnostic** is a tool that checks any website's DNS, HTTP, redirects, SSL/TLS and timing, and gives back one JSON report. One Spring Boot backend powers both a website and a Chrome extension.
+**Web Diagnostic** is a tool that checks any website's DNS, HTTP, redirects, SSL/TLS and timing, and gives back one JSON report. One Spring Boot backend powers both a website and a Chrome extension
 
 - [Live website](https://webinsight.duckdns.org/)
 - [Chrome extension](https://chromewebstore.google.com/detail/web-diagnostic/lfomgibolicppnokhaphgkndjnahhddd) on the Chrome Web Store
